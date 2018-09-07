@@ -1,0 +1,17 @@
+body {
+  background: url(assets/nature-3204336_960_720.jpg)no-repeat center/cover;
+  height: 97vh;
+  width: 97vw;
+}
+
+h1 {
+  color: azure;
+  font-family: inherit;
+  text-align: center;
+}
+
+p {
+  color: azure;
+  text-align: center;
+  font-weight: 600;
+}
